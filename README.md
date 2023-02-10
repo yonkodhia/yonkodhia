@@ -1,5 +1,5 @@
 - Im dhia cherni @yonkodhia
-- Im studying Software Engineering at holbertonschool..specialized in Machine Learning.
+- Im studying Software Engineering at holbertonschool..specialized in web developing.
 - I have an analytical thinking and problem-solving mindset with a good understanding of mathematics and some core ML skills.
 - Im getting closer to my goal ... don't believe me just watch. 
 
